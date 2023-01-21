@@ -1,0 +1,11 @@
+customer_name,month,consumption
+John Smith,July,100
+Jane Doe,July,120
+ane Doe,July,120
+Jne Doe,July,120
+Jae Doe,July,120
+Jan Doe,July,120
+Jane Doe,July,120
+Jane oe,July,120
+Jane De,November,120
+Jane Do,November,120
